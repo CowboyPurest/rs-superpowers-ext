@@ -9,12 +9,13 @@
     {
       "name": "superpowers-extended-cc",
       "description": "Claude Code-specific fork of Superpowers with native task management and CC-specific enhancements",
-      "version": "5.2.8",
+      "version": "6.4.4",
       "source": "./",
       "author": {
         "name": "pcvelz",
         "email": "pcvelz@users.noreply.github.com"
       }
     }
-  ]
+  ],
+  "version": "6.4.4"
 }
